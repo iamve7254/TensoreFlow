@@ -56,7 +56,7 @@ portend==2.4
 protobuf==3.7.1
 pycryptodome==3.8.1
 pydub==0.18.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pyscreenshot==0.5.1
 python-dateutil==2.8.0
 python-docx==0.8.10
